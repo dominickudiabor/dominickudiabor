@@ -1,16 +1,28 @@
-### Hi there 👋
+## [![Dominic Kudiabor's header](https://i.imgur.com/qJZo59q.gif)](https://)
 
-<!--
-**dominickudiabor/dominickudiabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">Hello there! My name is Dominic Kudiabor. 👋🤓</h2>
+<p align="center">I'm a Full Stack Developer.
+I'm also currently working as a trainee developer in Integrify .
+I am passionate about MERNstack, Progressive Web Apps and native applications.
+In my free time I challenge myself physically by trail running. I also like board games and badmington.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 💼 Where i am currently working at
+- [Integrify](https://www.integrify.io/) 💼 
+
+
+### 💻 What i am currently/done working on
+- [Recruitment mobile App]()  🚀
+- [Ecommerce web store]()  🚀 
+- [Countries Web App]()  🚀
+- [Covid 19 liv stats]()  🚀 
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/dominickudiabor/) 👨💼
+- [Website](https://dominickudiabor.netlify.app/) 😏🔗
+
+![Dominic's Github Stats](https://github-readme-stats.vercel.app/api?username=dominickudiabor&show_icons=true&theme=radical)
+
