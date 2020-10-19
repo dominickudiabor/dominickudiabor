@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Hello there! My name is Dominic Kudiabor. 👋🤓</h2>
-<p align="center">I'm a Full Stack Developer.
+<p align="left">I'm a Full Stack Developer.
 I'm also currently working as a trainee developer in Integrify .
 I am passionate about MERNstack, Progressive Web Apps and native applications.
 In my free time I challenge myself physically by trail running. I also like board games and badmington.</p>
