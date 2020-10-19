@@ -18,7 +18,7 @@ In my free time I challenge myself physically by trail running. I also like boar
 - [Recruitment mobile App]()  🚀
 - [Ecommerce web store]()  🚀 
 - [Countries Web App]()  🚀
-- [Covid 19 liv stats]()  🚀 
+- [Covid 19 live stats]()  🚀 
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/dominickudiabor/) 👨💼
