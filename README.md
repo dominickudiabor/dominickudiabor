@@ -11,14 +11,12 @@ In my free time I challenge myself physically by trail running. I also like boar
 
 
 ### 💼 Where i am currently working at
-- [Integrify](https://www.integrify.io/) 💼 
+- [Genero Oy](https://genero.fi/) 💼 
 
 
 ### 💻 What i am currently/done working on
 - [Recruitment mobile App]()  🚀
-- [Ecommerce web store]()  🚀 
-- [Countries Web App]()  🚀
-- [Covid 19 live stats]()  🚀 
+
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/dominickudiabor/) 👨💼
