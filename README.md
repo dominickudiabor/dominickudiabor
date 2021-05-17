@@ -15,7 +15,7 @@ In my free time I challenge myself physically by trail running. I also like boar
 
 
 ### 💻 What i am currently/done working on
-- [Recruitment mobile App]()  🚀
+- [Ionic/ React ecommerce mobile application]()  🚀
 
 
 ### 📫 Where to find me
