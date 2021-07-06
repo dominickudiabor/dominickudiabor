@@ -21,6 +21,7 @@ In my free time I challenge myself physically by trail running. I also like boar
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/dominickudiabor/) 👨💼
 - [Website](https://dominickudiabor.netlify.app/) 😏🔗
+- [CV](https://drive.google.com/file/d/1IZhvfaSaIhGRtI9jBZqw3oGC5P30B-zZ/view?usp=sharing)
 
 ![Dominic's Github Stats](https://github-readme-stats.vercel.app/api?username=dominickudiabor&show_icons=true&theme=radical)
 
