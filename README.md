@@ -3,7 +3,7 @@
 
 <h2 align="center">Hello there! My name is Dominic Kudiabor. 👋🤓</h2>
 <p align="left">I'm a Full Stack Developer.
-I'm also currently working as a developer in Genero Oy .
+I'm also currently working as a software systems engineer in Beamex Oy .
 I am passionate about MERNstack, Progressive Web Apps and native applications.
 In my free time I challenge myself physically by trail running. I also like board games and badmington.</p>
 
@@ -11,11 +11,11 @@ In my free time I challenge myself physically by trail running. I also like boar
 
 
 ### 💼 Where i am currently working at
-- [Genero Oy](https://genero.fi/) 💼 
+- [Beamex Oy](https://www.beamex.com/) 💼 
 
 
 ### 💻 What i am currently/done working on
-- [Ionic/ React ecommerce mobile application]()  🚀
+- Private
 
 
 ### 📫 Where to find me
